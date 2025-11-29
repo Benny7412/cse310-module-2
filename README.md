@@ -1,6 +1,6 @@
 # Overview
 
-This is a cli hangman game written in Rust. It selects a hidden word and lets the player guess one letter at a time, showing progress after each guess and tracking how many mistakes have been made. When the player either reveals all the letters or runs out of allowed wrong guesses, the game ends, and the player can either win or lose.
+
 
 
 [Software Demo Video](http://youtube.link.goes.here)
